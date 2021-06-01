@@ -1,5 +1,5 @@
 # MJT-SpellCheckTool
-# Spell Check Tool :speech_balloon:
+### Made troughout MJT course in FMI
 
 
 Един от най-полезните инструменти, които използваме при общуването си online е т.нар. spell checker (инструмент за проверка на правописа).
