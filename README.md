@@ -1,4 +1,4 @@
-# MJT-SpellCheckTool
+# Spell Check Tool :speech_balloon:
 ### Made troughout MJT course in FMI
 
 
